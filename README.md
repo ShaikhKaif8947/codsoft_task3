@@ -1,1 +1,1 @@
-# codsoft_task3
+This task involves building a machine learning model that predicts customer churn for a subscription-based service or business by analyzing historical customer data, usage behaviour and customer demographics. 
